@@ -21,8 +21,6 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
 }
-
-
 /* Responsive Design */
 @media (max-width: 1024px) {
   .skill-row, .parent {
@@ -750,4 +748,5 @@ a:hover {
     height: 520px;
   }
 }
+
 
